@@ -1,6 +1,6 @@
 <h1>个人Java代码集</h1>
 
-<p>主要是本人在B站观看尚硅谷2024Java教学视频的学习示例代码,包含了许多注释来阐明知识点</p>
+<p>主要是本人在B站观看<a href="https://www.bilibili.com/video/BV1JZ421a7PX?spm_id_from=333.788.videopod.episodes&vd_source=45792527913efdcbf520573d0c16b421">尚硅谷2024Java教学视频</a>的学习示例代码,包含了许多注释来阐明知识点</p>
 
 <p>该仓库一来作为本人笔记内容存储，二来若初学者有缘看到，或许可以有所帮助</p>
 
