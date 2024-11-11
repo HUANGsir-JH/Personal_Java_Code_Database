@@ -31,6 +31,7 @@ class client{
              */
             // 显式关闭输出流，通知服务器发送结束
             client_socket.shutdownOutput();
+            
             System.out.println("文件发送成功");
             
             InputStream client_socketInputStream = client_socket.getInputStream();
