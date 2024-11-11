@@ -15,3 +15,5 @@
 <p>更新日期：2024年11月09日 ；状态：未完全学完</p>
 <p>上传内容：Print_Stream ; Properties_IO </p>
 <hr>
+<p>更新日期：2024年11月11日 ；状态：快学完了。。。</p>
+<p>上传内容：Network_Programming </p>
