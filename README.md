@@ -17,3 +17,6 @@
 <hr>
 <p>更新日期：2024年11月11日 ；状态：快学完了。。。</p>
 <p>上传内容：Network_Programming </p>
+<hr>
+<p>更新日期：2024年11月11日 ；状态：真的快学完了。。。</p>
+<p>上传内容：Regex, Lombok, Functional_interface, Stream, Junit, Reflection</p>
